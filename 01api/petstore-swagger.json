@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": {
     "description": "Your first API with Amazon API Gateway. This is a sample API that integrates via HTTP with our demo Pet Store endpoints",
-    "title": "PetStore"
+    "title": "PetStore Demo Unilabs"
   },
   "schemes": [
     "https"
@@ -13,7 +13,7 @@
         "tags": [
           "pets"
         ],
-        "description": "PetStore HTML web page containing API usage information",
+        "description": "DEMO PetStore HTML web page containing API usage information",
         "consumes": [
           "application/json"
         ],
@@ -56,7 +56,7 @@
         "tags": [
           "pets"
         ],
-        "summary": "List all pets",
+        "summary": "List all pets - DEMO",
         "produces": [
           "application/json"
         ],
